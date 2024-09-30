@@ -1,8 +1,8 @@
 title: Game Over.
 new-page: true
-go-to: menu
+go-to: eg_menu
 on-arrival: {!
-Q.game_over = 1;
+Q.game_over = 0;
 // Achievements:
 // Große Koalition - form a grand coalition
 // Eiserne Front - Form the Iron Front.
