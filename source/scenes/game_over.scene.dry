@@ -1,6 +1,6 @@
 title: Game Over.
-new-page: true
-go-to: eg_menu
+new-page: false
+go-to: menu
 on-arrival: {!
 Q.game_over = 1;
 // Achievements:
